@@ -1,5 +1,2 @@
-@Library('jenkins-library@master') _
-
-deliveryPipeline(
-    "type": "docker",
-)
+@Library('test-library@master') _
+deliveryPipeline()
