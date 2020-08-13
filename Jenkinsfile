@@ -1,2 +1,2 @@
-@Library('test-library@master') _
+@Library('library-test@master') _
 deliveryPipeline()
